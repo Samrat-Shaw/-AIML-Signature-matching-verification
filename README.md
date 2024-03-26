@@ -41,37 +41,37 @@ the directory where u have stored the project folder and then
 click on the project folder
 • All the project files will be imported.
 2. Open MATLAB:
-o Launch MATLAB on your computer.
+Launch MATLAB on your computer.
 Open or Create a New Script:
-o You can open an existing script file or create a new
+You can open an existing script file or create a new
 one using the MATLAB Editor.
 3. Copy and Paste Code:
-o Copy the entire code from the SignatureProject
+ Copy the entire code from the SignatureProject
 function provided above.
 4. Paste Code in MATLAB Editor:
-o Paste the copied code into the MATLAB Editor.
+ Paste the copied code into the MATLAB Editor.
 5. Save the Script:
-o Save the script file with an appropriate name and the
+Save the script file with an appropriate name and the
 .m extension. For example, you can save it as
 SignatureProjectScript.m.
 6. Run the Script:
-o Run the script by clicking the "Run" button in the
+ Run the script by clicking the "Run" button in the
 MATLAB Editor toolbar or by typing run
 SignatureProjectScript in the Command Window
 and pressing Enter.
 7. Interact with the GUI:
-o Once the script is running, a GUI window titled
+ Once the script is running, a GUI window titled
 "SignatureProject" should appear.
-o Use the buttons labeled "pushbutton1" and
+Use the buttons labeled "pushbutton1" and
 "pushbutton2" to load images for comparison.
-o After selecting the images, click on "pushbutton3" to
+After selecting the images, click on "pushbutton3" to
 compare the signatures and determine validity.
-o The GUI will display a message box indicating
+ The GUI will display a message box indicating
 whether the signature verification is valid or invalid.
-o Press "q" on your keyboard to close the GUI and
+ Press "q" on your keyboard to close the GUI and
 terminate the program.
 8. Modify Threshold (Optional):
-o If needed, you can adjust the threshold value in the
+If needed, you can adjust the threshold value in the
 code (0.4 in the pushbutton3_Callback function) to
 fine-tune the signature verification criteria.
 6. Press 'q' on your keyboard to quit the program and close the video

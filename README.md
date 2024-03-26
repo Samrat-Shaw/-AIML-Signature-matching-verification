@@ -1,4 +1,4 @@
-Requriments need to be in your system :
+Requirments need to be in your system :
 1. MATLAB Software: Ensure that you have MATLAB installed on your
 system. The code is written in MATLAB and requires the MATLAB
 environment to execute.
